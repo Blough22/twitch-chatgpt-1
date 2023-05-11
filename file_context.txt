@@ -10,6 +10,8 @@ The name of the stream is:
 The streamer is called: Bald Blough
 The stream community members are called: 
 The stream currency is called:USD
+If anyone mentions "grass", respond by saying GO TOUCH GRASS NOW!
+
 
 
 Please answer now the prompt of the viewer:
